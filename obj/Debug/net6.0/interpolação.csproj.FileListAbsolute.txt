@@ -1,0 +1,15 @@
+C:\dev\interpolação\bin\Debug\net6.0\interpolação.exe
+C:\dev\interpolação\bin\Debug\net6.0\interpolação.deps.json
+C:\dev\interpolação\bin\Debug\net6.0\interpolação.runtimeconfig.json
+C:\dev\interpolação\bin\Debug\net6.0\interpolação.dll
+C:\dev\interpolação\bin\Debug\net6.0\interpolação.pdb
+C:\dev\interpolação\obj\Debug\net6.0\interpolação.csproj.AssemblyReference.cache
+C:\dev\interpolação\obj\Debug\net6.0\interpolação.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\interpolação\obj\Debug\net6.0\interpolação.AssemblyInfoInputs.cache
+C:\dev\interpolação\obj\Debug\net6.0\interpolação.AssemblyInfo.cs
+C:\dev\interpolação\obj\Debug\net6.0\interpolação.csproj.CoreCompileInputs.cache
+C:\dev\interpolação\obj\Debug\net6.0\interpolação.dll
+C:\dev\interpolação\obj\Debug\net6.0\refint\interpolação.dll
+C:\dev\interpolação\obj\Debug\net6.0\interpolação.pdb
+C:\dev\interpolação\obj\Debug\net6.0\interpolação.genruntimeconfig.cache
+C:\dev\interpolação\obj\Debug\net6.0\ref\interpolação.dll
